@@ -1,0 +1,6 @@
+﻿C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Persistence\Configuration\UserConfiguration.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Persistence\Context\DatabaseContext.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Persistence\DAO\Users\Impl\UsersDao.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Persistence\DAO\Users\IUsersDao.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Persistence\DependencyExtension.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Persistence\GlobalUsings.cs

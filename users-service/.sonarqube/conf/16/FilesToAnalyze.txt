@@ -1,0 +1,5 @@
+﻿C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\DependencyExtension.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\GlobalUsings.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\Mapping\AutoMapperProfile.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\Users\Impl\UsersService.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\Users\IUsersService.cs

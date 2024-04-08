@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: arquetipo-net
+  name: arquetipo-net
+spec:
+  type: ClusterIP
+  ports:
+    - port: 9091
+      protocol: TCP
+      targetPort: 80
+  selector:
+    app: arquetipo-net

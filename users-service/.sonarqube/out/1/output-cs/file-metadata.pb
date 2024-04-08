@@ -1,0 +1,9 @@
+„
+{C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\DTOs\Requests\Users\CreateUserDto.csutf-8„
+{C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\DTOs\Requests\Users\UpdateUserDto.csutf-8
+vC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\DTOs\Responses\Users\UserDto.csutf-8p
+gC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\ErrorMessages.csutf-8q
+fC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\GlobalUsings.csutf-8˜
+ŒC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\obj\Debug\net6.0\Axity.Users.Common.GlobalUsings.g.csutf-8¢
+–C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8–
+ŠC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\obj\Debug\net6.0\Axity.Users.Common.AssemblyInfo.csutf-8

@@ -1,0 +1,9 @@
+{
+rC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\Controllers\UsersController.csutf-8s
+jC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\DependencyExtension.csutf-8n
+cC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\GlobalUsings.csutf-8g
+^C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\Program.csutf-8í
+ÜC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\Axity.Users.Api.GlobalUsings.g.csutf-8ü
+ìC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ê
+ÑC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\Axity.Users.Api.AssemblyInfo.csutf-8£
+óC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\Axity.Users.Api.MvcApplicationPartsAssemblyInfo.csutf-8

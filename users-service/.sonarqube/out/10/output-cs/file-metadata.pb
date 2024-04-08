@@ -1,0 +1,9 @@
+x
+oC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\DependencyExtension.csutf-8s
+hC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\GlobalUsings.csutf-8~
+uC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\Mapping\AutoMapperProfile.csutf-8|
+sC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\Users\Impl\UsersService.csutf-8x
+oC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\Users\IUsersService.csutf-8ú
+êC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\obj\Debug\net6.0\Axity.Users.Services.GlobalUsings.g.csutf-8§
+òC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ö
+éC:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Services\obj\Debug\net6.0\Axity.Users.Services.AssemblyInfo.csutf-8

@@ -1,0 +1,16 @@
+﻿C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Test\BaseTest.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Test\Extensions\TestExtensions.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Test\Facade\UserFacadeTest.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Test\GlobalUsings.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Test\Mapper\MapperTest.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Test\Services\UserServiceTest.cs
+C:\Users\fealv\.nuget\packages\microsoft.net.test.sdk\17.4.1\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\fealv\.nuget\packages\microsoft.testplatform.testhost\17.4.1\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\fealv\.nuget\packages\microsoft.testplatform.testhost\17.4.1\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\fealv\.nuget\packages\nunit3testadapter\4.3.1\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\fealv\.nuget\packages\nunit3testadapter\4.3.1\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\fealv\.nuget\packages\nunit3testadapter\4.3.1\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\fealv\.nuget\packages\nunit3testadapter\4.3.1\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\fealv\.nuget\packages\nunit3testadapter\4.3.1\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\fealv\.nuget\packages\nunit3testadapter\4.3.1\build\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Test\Setup\TCFLC_Role.csv

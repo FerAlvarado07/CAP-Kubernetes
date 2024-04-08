@@ -1,0 +1,8 @@
+﻿C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\DTOs\Requests\Users\CreateUserDto.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\DTOs\Requests\Users\UpdateUserDto.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\DTOs\Responses\Users\UserDto.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\ErrorMessages.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Common\GlobalUsings.cs
+C:\Users\fealv\.nuget\packages\axity.kafka\1.0.23\contentFiles\any\netstandard2.1\axity.ico
+C:\Users\fealv\.nuget\packages\axity.commons\1.1.9\contentFiles\any\netstandard2.1\axity.ico
+C:\Users\fealv\.nuget\packages\axity.commons\1.1.9\contentFiles\any\netstandard2.1\logo_axity-192x192.png

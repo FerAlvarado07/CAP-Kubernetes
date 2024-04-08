@@ -1,0 +1,2 @@
+﻿C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Model\Entities\UserModel.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Model\GlobalUsings.cs

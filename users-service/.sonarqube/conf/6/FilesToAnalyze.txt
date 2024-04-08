@@ -1,0 +1,15 @@
+﻿C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\Controllers\UsersController.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\DependencyExtension.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\GlobalUsings.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\Program.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\Axity.Users.Api.GlobalUsings.g.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\Axity.Users.Api.AssemblyInfo.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\obj\Debug\net6.0\Axity.Users.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\appsettings.Development.json
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\appsettings.json
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\appsettings.Local.json
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\appsettings.Prod.json
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\appsettings.Staging.json
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\Axity.Users.Api\Properties\launchSettings.json
+C:\Users\fealv\Downloads\Generator\generator-netcore6\users-service\.editorconfig
